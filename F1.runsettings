@@ -8,6 +8,6 @@
     </RunConfiguration>
     <TestRunParameters>
         <Parameter name="Browser" value="Chrome"/>
-        <Parameter name="BaseUrl" value="https://yourwebsite.com"/>
+        <Parameter name="BaseUrl" value="https://www.walmart.com/"/>
     </TestRunParameters>
 </RunSettings>
